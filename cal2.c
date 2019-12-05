@@ -5,7 +5,7 @@ int a=40,b=20;
 printf("***********calculator****************\n");
 printf("enter your choice \n 1-add \n 2-sub \n 3-mulltiply \n 4-division");
 int n;
-scanf("%d",n);
+scanf("%d",&n);
 switch(n)
 {
 case 1:
